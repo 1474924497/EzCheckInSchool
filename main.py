@@ -149,7 +149,7 @@ def print_info_error():
     """
     print('请检查你填写的学院、专业、班级信息！')
     print('见完美校园健康打卡页面')
-    print('如 理学院-应用物理学-应物1901')
+    print('如 新工科产业学院-物联网工程-物联183')
 
 
 def update_time():
