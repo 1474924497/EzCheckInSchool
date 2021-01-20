@@ -1,6 +1,6 @@
 # EzCheckInSchool
 最简单的完美校园自动健康打卡，基于Github Actions免服务器运行。
-
+                                                    
 - 仅需学号姓名🎫  
 - 随机校内经纬度🗺️
 - 打卡结果微信推送💬
@@ -44,7 +44,7 @@
 |`STU_NAME`|`你的姓名`|`李华`|
 |`SC_URL`|[`Server酱调用URL`](http://sc.ftqq.com/?c=code)|`http://sc.ftqq.com/abcdefghigklmnopqrstuvwxyz.send`| 
 
-以上步骤完成后
+以上步骤完成后     
 
 Fork的项目->Settings->Action->I understand... 开启Actions
 
